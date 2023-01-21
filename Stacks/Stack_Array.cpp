@@ -54,7 +54,6 @@ int main(){
 	push(12);
 	push(13);
 	display();
-
-
+	
 	return 0;
 }
